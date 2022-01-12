@@ -1,8 +1,6 @@
 '''
 PlotQuestion.py
 
-See the README for the full description of the desired plot.
-
 
 TOTAL POINTS AVAILABLE: 10 
 
