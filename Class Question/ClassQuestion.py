@@ -89,7 +89,7 @@ or the program is largely incomplete.
 # Create a method called change_price(). It should:
 #   - have 2 parameters: 'product_name', 'price'
 #   - it should change the price of the product "product_name" to "price", in the 'contents' attribute
-#   - if the product "product_name" does not exist, add a new entry to 'contents'
+#   - if the product "product_name" does not exist, add a new entry to 'contents' and set 'quantity' to zero
 
 
 # Create a method called calculate_cost(). It should:
