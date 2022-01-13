@@ -5,7 +5,7 @@ ClassQuestion.py
 TOTAL POINTS AVAILABLE: 50
 
 
-8 points per method, 42 across whole class, 8 points for the creation of the students and the task.
+8 points per method, 42 across whole class, 8 points for the creation of the trolleys and the task.
 
 --------------------------------------
 Marking for methods:
