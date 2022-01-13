@@ -110,5 +110,5 @@ or the program is largely incomplete.
 #
 # Notice that the total cost of the new created trolley should be equal to the sum of the cost
 # of trolley_1 and the cost of trolley_2. Showcase that this is indeed the case by creating two
-# instances of a trolley (with arbitrary items) and merging them with the function merge_trolley in 
+# instances of a trolley (with arbitrary items) and merge them with the function merge_trolley in 
 # a new trolley. Print the cost of the three trolleys.
